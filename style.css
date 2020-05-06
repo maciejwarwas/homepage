@@ -38,6 +38,10 @@
 
         .header3 {
             color: royalblue;
+            line-break: strict;
+            {
+            
+              }
         }
 
         }
