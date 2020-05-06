@@ -1,0 +1,48 @@
+        body {
+            background: #ffffff;
+        }
+
+        }
+
+        p {
+            color: indigo;
+        }
+
+        .hotpink-header {
+            color: hotpink;
+        }
+
+        #top {
+            background: lawngreen;
+        }
+
+        a {
+            color: orange;
+        }
+
+        header a {
+            color: lightseagreen;
+        }
+
+        .mainheader {
+            color: #1460aa;
+            font-size: 32px;
+            font-weight: 500;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+
+        .header2 {
+            color: red
+        }
+
+        .header3 {
+            color: royalblue;
+        }
+
+        }
+
+        .komendy {
+            color: violet;
+            font-size: 16px;
+            font-weight: 300;
